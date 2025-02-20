@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaUsers, FaRegLightbulb, FaRegStar } from 'react-icons/fa';
 
 export default function About() {
